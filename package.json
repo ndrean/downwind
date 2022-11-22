@@ -27,7 +27,7 @@
     "react-leaflet": "^2.7.0",
     "react-map-gl": "^5.2.7",
     "react-map-gl-geocoder": "^2.0.11",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-use-idb": "^1.0.2",
     "universal-router": "^9.0.1"
   },
